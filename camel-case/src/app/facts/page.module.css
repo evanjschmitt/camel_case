@@ -1,0 +1,17 @@
+.factsHolder {
+  /* background-color: green; */
+}
+
+.factsHolder ul {
+  margin-left: 20px;
+  list-style: circle;
+}
+
+.factsHolder a {
+  color: #f91;
+}
+
+.factsHolder a:hover {
+  color: #f75;
+  transition: all 0.25s ease-in-out;
+}
